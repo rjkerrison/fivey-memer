@@ -6,9 +6,16 @@ A tool that makes it easy to make Fivey Fox memes.
 
 ## Usage
 
+### Chrome
+
 - Navigate to [chrome://extensions](chrome://extensions/)
 - Toggle developer mode(top left)
-- Click `Load Unpacked Extendion`
+- Click `Load Unpacked Extension`
 - Select this directory
 - Navigate to [538's election forecast](https://projects.fivethirtyeight.com/2020-election-forecast/)
 - Meme
+
+### Firefox
+
+- Navigate to [about:debugging#/runtime/this-firefox](//about:debugging#/runtime/this-firefox)
+- Click `Load De....
